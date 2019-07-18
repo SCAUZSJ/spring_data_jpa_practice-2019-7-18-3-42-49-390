@@ -19,6 +19,7 @@ public class Prosecutor {
     @NotNull
     private String name;
 
+
     public String getId() {
         return id;
     }
